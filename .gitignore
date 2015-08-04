@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /bootstrap/compiled.php
 /vendor
 composer.phar
@@ -6,3 +7,16 @@ composer.lock
 .env.php
 .DS_Store
 Thumbs.db
+=======
+# Build and Release Folders
+bin/
+bin-debug/
+bin-release/
+
+# Other files and folders
+.settings/
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+>>>>>>> cb46885a56625c29356cdd6c64c3962932814f81
